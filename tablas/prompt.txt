@@ -3,3 +3,5 @@ separado, que muestren la tabla del 3. La página debe incluir un botón con el 
 PROBAR en la parte superior. El diseño debe ser responsive. No usar JavaScript.”
 
 2.Estilo tecnológico con colores diferentes y agarega mi nombre al pie de pagina: Mishell Yanez
+
+3.Mejorar la interfaz agregando: • Instrucciones claras • Mensajes de ayuda • Textos intuitivos Meta: que cualquier persona pueda usar tu página sin explicación, no modifiques los id, span, input, class.
