@@ -1,5 +1,5 @@
 function generarTablas() {
-    let divContenedor = document.getElementById("divContenedor");
+    let resultado = document.getElementById("resultado");
     let contenido = "";
     let numero= parseInt(document.getElementById("txtNumero").value);
 
@@ -8,5 +8,5 @@ function generarTablas() {
        contenido = contenido + "<div class='fila'>"+ numero + "× " + i + " = " + (numero * i) + "</div>";
         
     }
-    divContenedor.innerHTML = contenido;
+    resultado.innerHTML = contenido;
 }
